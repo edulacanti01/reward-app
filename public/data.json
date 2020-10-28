@@ -1,0 +1,47 @@
+[
+   {"customerId":1,
+    "firstName":"Test",
+    "lastName":"Test2",
+    "transactions":[
+        {
+            "id":1,"amount":120,"date":"09/20/2020"
+        },
+        {
+            "id":2,"amount":40,"date":"08/10/2020"
+        },
+        {
+            "id":3,"amount":60,"date":"10/10/2020"
+        }
+    ]
+},
+{"customerId":2,
+    "firstName":"Test",
+    "lastName":"Test2",
+    "transactions":[
+        {
+            "id":100,"amount":120,"date":"08/10/2020"
+        },
+        {
+            "id":1001,"amount":60,"date":"09/10/2020"
+        },
+        {
+            "id":1003,"amount":220,"date":"10/10/2020"
+        }
+    ]
+},
+{"customerId":3,
+    "firstName":"Test",
+    "lastName":"Test2",
+    "transactions":[
+        {
+            "id":1,"amount":120,"date":"09/10/2020"
+        },
+        {
+            "id":1,"amount":120,"date":"08/10/2020"
+        },
+        {
+            "id":1,"amount":120,"date":"10/10/2020"
+        }
+    ]
+}
+]
